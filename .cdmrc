@@ -1,2 +1,2 @@
-tabs: [src/main/java/Accumulate.java]
-run-button: cd /home/damner/code/src/main/java/Accumulate.java && javac src/main/java/Accumulate.java && java src/main/java/Accumulate
+tabs: [src/main/java/BeerSong.java]
+run-button: cd /home/damner/code/src/main/java/BeerSong.java && javac src/main/java/BeerSong.java && java src/main/java/BeerSong
